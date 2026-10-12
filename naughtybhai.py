@@ -735,8 +735,8 @@ OWNER_USERNAME = "@WhoIsShown"
 # Any post sent to the channel will auto-broadcast as a forward to all users + groups.
 BROADCAST_CHANNEL_ID = None   # <-- fill this in, e.g. -1001234567890
 
-API_BASE_URL = "PASTE_YOUR_MAIN_API_BASE_URL"   # ← MAIN API BASE URL
-API_KEY = "PASTE_YOUR_API_KEY"   # ← API KEY
+API_BASE_URL = "http://sahilxher.madewith.me"   # ← MAIN API BASE URL
+API_KEY = "TEAMALONE"   # ← API KEY
 
 FORCE_JOIN_ENABLED = True
 
@@ -773,7 +773,7 @@ COMMAND_COST = 1
 AUTO_DELETE_TIME = 120
 
 # ── MongoDB ───────────────────────────────────────────────────
-MONGO_URI = "mongodb+srv://USERNAME:PASSWORD@YOUR-CLUSTER.mongodb.net/?retryWrites=true&w=majority"   # ← APNI MONGODB URI DALO
+MONGO_URI = "mongodb+srv://learnonix_db_user:HHaKUL7sIDF4Hqhn@cluster0.rw7isyw.mongodb.net/?appName=Cluster0&retryWrites=true&w=majority"   # ← APNI MONGODB URI DALO
 
 print("=" * 60)
 print("⏳ Connecting to MongoDB Atlas...")
