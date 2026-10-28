@@ -1188,9 +1188,9 @@ def _redact(s):
 #  Credentials (yaha apni values daalo):
 #    BOT_TOKEN / MONGO_URI / API_KEY / BASE_URL / API_BASE_URL
 # ════════════════════════════════════════════════════════════
-BOT_TOKEN = os.environ.get("BOT_TOKEN") or "PUT_YOUR_BOT_TOKEN_HERE"
-ADMIN_ID = 8994408644
-OWNER_USERNAME = "@flirts_x"
+BOT_TOKEN = os.environ.get("8862676225:AAF1SMix3zoeMmNxisSe-G5L_n9edjvxQHg") or "PUT_YOUR_BOT_TOKEN_HERE"
+ADMIN_ID = 8984851474
+OWNER_USERNAME = "@WhoIsShown"
 
 # ── Channel Broadcast Feature ──────────────────────────────────
 # Set this to your channel's chat_id (negative number, e.g. -1001234567890)
